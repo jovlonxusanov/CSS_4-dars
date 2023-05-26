@@ -1,0 +1,29 @@
+body{
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+.navbar-sticky{
+    background-color: #ffffff;
+}
+.navbar-menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.navbar-item{
+    display: inline-block;
+    padding: 24px 10px;
+}
+.navbar-item a{
+    color: grey;
+    text-decoration: none;
+}
+.navbar-item:hover a{
+    background-color: #f1f1f1;
+}
+.navbar-img{
+    display:
+              hjhhhblock;
+   margin-bottom: -20px;
+}
